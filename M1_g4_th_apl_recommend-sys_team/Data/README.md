@@ -37,4 +37,3 @@ Official GroupLens source:
 
 https://grouplens.org/datasets/movielens/1m/
 
-The raw dataset is not duplicated in this repository. It can be downloaded from the official source and will be preprocessed during the technical implementation stage.
