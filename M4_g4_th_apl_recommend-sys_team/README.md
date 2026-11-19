@@ -2,14 +2,6 @@
 
 **CSE 516 · Theoretical AI · Group 4 · Final project**
 
-| AU ID | Member | Role |
-|---|---|---|
-| AU2440170 | Jyotier Vithalani | Mathematical model, ADF/EP inference, repository |
-| AU2440234 | Tanmay Kanani | Baselines |
-| AU2440259 | Ansh Chaudhari | Literature and SOTA positioning |
-| AU2440178 | Shlok Shah | Dataset and metadata |
-| AU2440221 | Het Patel | KPIs, experiments and documentation |
-
 We estimate a probability for each of the five possible MovieLens ratings.
 The project tests how repeated approximate inference changes prediction
 quality, and isolates the effect of an undirected movie graph by turning off
